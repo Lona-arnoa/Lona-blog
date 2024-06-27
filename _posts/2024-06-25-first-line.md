@@ -13,3 +13,9 @@ toc_label: 목차
 ## 목차
 
 - 목차인가요?
+
+## 셈플 코드
+
+```python
+hello world
+```
