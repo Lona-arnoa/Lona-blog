@@ -27,3 +27,9 @@ gem "minimal-mistakes-jekyll"
 # Cf. https://jekyllrb.com/docs/plugins/installation/
 group :jekyll_plugins do
 end
+
+gem "webrick", "~> 1.8"
+
+gem "tzinfo", "~> 2.0"
+
+gem "tzinfo-data", "~> 1.2024"
