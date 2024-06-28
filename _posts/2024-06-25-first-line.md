@@ -35,7 +35,10 @@ hello world!
 
 {% include video id="cn4M-fH08XY" provider="youtube" %}
 
+![KakaoTalk_20240620_080619823]({{site.url}}/images/2024-06-25-first-line/KakaoTalk_20240620_080619823.jpg)
+
 <!-- <div class="notice--success">
+
 <h4> 공지사항입니다.</h4>
 <ul>
     <li>공지사항 순서 1</li>
