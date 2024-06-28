@@ -1,7 +1,7 @@
 ---
 title: "My Second post"
 layout: single
-categories: "Test2"
+categories: "test"
 tag: [second]
 author_profile: false
 search: true

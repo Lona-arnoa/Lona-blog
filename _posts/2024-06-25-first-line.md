@@ -1,7 +1,7 @@
 ---
 title: "My first post"
 layout: single
-categories: "Test"
+categories: "test"
 tag: [first, second]
 toc: true
 toc_sticky: true

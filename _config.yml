@@ -108,14 +108,14 @@ author:
   avatar           : "/assets/images/123.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Lazy but Busy"
   location         : "Somewhere"
-  email            : "aaron0407123@gmail.com"
+  email            : # 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "aaron0407123@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Lona-arnoa"
