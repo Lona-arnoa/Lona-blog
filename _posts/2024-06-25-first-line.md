@@ -12,6 +12,9 @@ sidebar:
 search: true
 ---
 
+**[공지사항]** [문제가 생겼나요? 지킬블로그 가이드라인 안내 드립니다!](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+{: .notice--warning}
+
 ## 시작글
 
 축하해요! 위대한 첫 걸음을 내딛었습니다!
@@ -27,9 +30,9 @@ hello world!
 "안녕 세상아!"
 ```
 
+[무슨 일이 벌어지는거죠?](#link){: .btn .btn--danger}
 
-<!-- **[공지사항]** [문제가 생겼나요? 지킬블로그 가이드라인 안내 드립니다!](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
-{: .notice--warning} -->
+{% include video id="cn4M-fH08XY" provider="youtube" %}
 
 <!-- <div class="notice--success">
 <h4> 공지사항입니다.</h4>
@@ -39,14 +42,3 @@ hello world!
     <li>공지사항 순서 3</li>
 </ul>
 </div> -->
-
-
-
-
-
-
-
-<!-- [무슨 일이 벌어지는거죠?](#link){: .btn .btn--danger}
-
-{% include video id="cn4M-fH08XY" provider="youtube" %} -->
-
