@@ -122,6 +122,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/inst_han_/"
+    - label: "YouTube"
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/channel/UCEoEM4ZOFrIHzKXApCtqZoA"
 
 # Site Footer
 footer:
@@ -129,9 +132,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Lona-arnoa"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/inst_han_/"
 
 
 # Reading Files
@@ -276,4 +276,6 @@ defaults:
       sidebar_main: true
       toc: true
       toc_sticky: true
+      toc_label: 목차 
+      toc_icon: "fas fa-tags"
 date_format: "%Y-%m-%d"

@@ -6,9 +6,10 @@ tag: [first, second]
 toc: true
 toc_sticky: true
 toc_label: 목차 
+toc_icon: "fas fa-tags"
 author_profile: false
-sidebar:
-    nav: "docs"
+# sidebar:
+#     nav: "docs"
 search: true
 ---
 
