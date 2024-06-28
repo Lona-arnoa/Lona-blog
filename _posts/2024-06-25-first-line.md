@@ -1,6 +1,8 @@
 ---
 title: "My first post"
 layout: single
+categories: "Test"
+tag: [first, second]
 toc: true
 toc_sticky: true
 toc_label: 목차 
@@ -16,6 +18,6 @@ toc_label: 목차
 
 ## 셈플 코드
 
-```python
+```java
 hello world
 ```
