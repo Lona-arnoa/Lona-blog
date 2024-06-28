@@ -3,26 +3,14 @@ title: "My first post"
 layout: single
 categories: "Test"
 tag: [first, second]
+toc: true
+toc_sticky: true
+toc_label: 목차 
 author_profile: false
 sidebar:
     nav: "docs"
 search: true
-toc: true
-toc_sticky: true
-toc_label: 목차 
 ---
-
-**[공지사항]** [문제가 생겼나요? 지킬블로그 가이드라인 안내 드립니다!](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
-{: .notice--warning}
-
-<div class="notice--success">
-    <h4> 공지사항입니다.</h4>
-    <ul>
-        <li>공지사항 순서 1</li>
-        <li>공지사항 순서 2</li>
-        <li>공지사항 순서 3</li>
-    </ul>
-</div>
 
 ## 시작글
 
@@ -39,7 +27,26 @@ hello world!
 "안녕 세상아!"
 ```
 
-[무슨 일이 벌어지는거죠?](#link){: .btn .btn--danger}
 
-{% include video id="cn4M-fH08XY" provider="youtube" %}
+<!-- **[공지사항]** [문제가 생겼나요? 지킬블로그 가이드라인 안내 드립니다!](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+{: .notice--warning} -->
+
+<!-- <div class="notice--success">
+<h4> 공지사항입니다.</h4>
+<ul>
+    <li>공지사항 순서 1</li>
+    <li>공지사항 순서 2</li>
+    <li>공지사항 순서 3</li>
+</ul>
+</div> -->
+
+
+
+
+
+
+
+<!-- [무슨 일이 벌어지는거죠?](#link){: .btn .btn--danger}
+
+{% include video id="cn4M-fH08XY" provider="youtube" %} -->
 
