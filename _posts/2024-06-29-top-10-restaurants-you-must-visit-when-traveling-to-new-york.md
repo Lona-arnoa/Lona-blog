@@ -3,10 +3,7 @@ layout: single
 title:  "Top 10 Restaurants you must visit when traveling to New York"
 categories: travel
 tag: [hashtags, NYCeats, foodieadventures, toprestaurantsNYC]
-toc: false
 author_profile: false
-sidebar:
-    nav: "counts"
 ---
 
 Are you planning a trip to the Big Apple and wondering where to dine? Look no further! In this blog post, we have curated a list of the top 10 restaurants you must visit when traveling to New York. From fine dining establishments to cozy cafes, there's something for every palate in this vibrant city.
