@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Top 10 Restaurants you must visit when traveling to New York"
-categories: travel
-tag: [hashtags, NYCeats, foodieadventures, toprestaurantsNYC]
+categories: test
+tag: [hashtags, NYCeats, foodieadventures, toprestaurantsNYC, gptTest]
 author_profile: false
 ---
 
